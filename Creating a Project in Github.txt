@@ -1,0 +1,18 @@
+
+
+
+1. Create a Folder with the name "Create a Project Template Steps"
+
+2. Open the folder in VS Code: click on File/Open Folder...
+
+3. Create a file by clicking on "File/New File...". Select a Text file or a Python file (for instance)
+
+4. While producing the document, save the changes as you go along by clicking "ctrl + s". 
+Provide a title and save the file. The changes will be saved on your local machine, not on Github
+
+5. When you want to publish to Github, go to Source Control and click on Innitialize Repository
+
+6. If you want to Commit the changes to Github, first click on "Stage Changes" (plus "+" sign)
+
+7. Then click on Commit
+
