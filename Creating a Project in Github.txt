@@ -18,5 +18,8 @@ Provide a title and save the file. The changes will be saved on your local machi
 
 8. Then select Publish to Github Private or Public repository and click on Publish Branch
 
-You can check the repository by clicking Open Github in the right botton corner 
+9. You can check the repository by clicking Open Github in the right botton corner
+
+10. when performing changes, repeat the process: Save by clicking "ctrl + s", go to 
+Source Control, Stage changes and click Commit. Give a name to that Commit and click Sync Changes.
 
