@@ -14,5 +14,7 @@ Provide a title and save the file. The changes will be saved on your local machi
 
 6. If you want to Commit the changes to Github, first click on "Stage Changes" (plus "+" sign)
 
-7. Then click on Commit
+7. Then click on Commit. Give a title to the Commit and click on the Commit button in the right bottom corner
+
+8. 
 
