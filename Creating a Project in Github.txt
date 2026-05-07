@@ -18,5 +18,5 @@ Provide a title and save the file. The changes will be saved on your local machi
 
 8. Then select Publish to Github Private or Public repository and click on Publish Branch
 
-You can check the repository by clicking OPen 
+You can check the repository by clicking Open Github in the right botton corner 
 
